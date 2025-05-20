@@ -1,6 +1,6 @@
 # BMI Calculator
 
-![BMI Calculator Screenshot](Screenshot (534).png) 
+![BMI Calculator Screenshot](screenshot1.png) 
 
 
 ## Overview
