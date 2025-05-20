@@ -28,7 +28,7 @@ For local development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vitalis-bmi-calculator.git
+   git clone https://github.com/LaplaceMkhabela/bmi-calculator.git
    ```
 
 2. Open `index.html` in your preferred browser.
