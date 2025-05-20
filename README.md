@@ -2,6 +2,8 @@
 
 ![BMI Calculator Screenshot](screenshot1.png) 
 
+![BMI Calculator Screenshot](screenshot2.png) 
+
 
 ## Overview
 
