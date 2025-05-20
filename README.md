@@ -4,7 +4,7 @@
 
 ## Overview
 
-Vitalis is an elegant, feature-rich BMI (Body Mass Index) calculator that provides users with a comprehensive health assessment. Beyond simple BMI calculation, it offers personalized health recommendations, beautiful data visualizations, and educational insights about body composition.
+BMI (Body Mass Index) calculator that provides users with a comprehensive health assessment. Beyond simple BMI calculation, it offers personalized health recommendations, data visualizations, and educational insights about body composition.
 
 ## Features
 
@@ -18,7 +18,7 @@ Vitalis is an elegant, feature-rich BMI (Body Mass Index) calculator that provid
 
 ## Demo
 
-[Live Demo](#) *(Add your deployment link here)*
+[Live Demo](https://bmireport.netlify.app/) 
 
 ## Installation
 
